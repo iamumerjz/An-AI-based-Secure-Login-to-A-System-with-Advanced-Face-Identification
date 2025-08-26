@@ -1,4 +1,4 @@
-# 🤖 A Highly Authentic and Secure AI Based Next.js Login System with Advanced Face Identification using State-of-the-Art OpenCV Techniques
+# An AI based Secure Login to A System with Advanced Face Identification
 
 A cutting-edge face recognition authentication system that combines the power of **Next.js 15** frontend with **Python Flask** backend, utilizing advanced **Convolutional Neural Networks (CNN)** and **OpenCV** computer vision techniques for highly secure user authentication.
 
