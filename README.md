@@ -193,7 +193,7 @@ git clone https://github.com/iamumerjz/An-AI-based-Secure-Login-to-A-System-with
 
    **⏳ Installation Time:** 10-20 minutes (TensorFlow is large)
 
-5. **Create requirements.txt file** (if not exists):
+5. **Create requirements.txt file** (Optional):
    ```txt
    flask==2.3.3
    flask-cors==4.0.0
