@@ -132,8 +132,7 @@ git --version
 ### Step 1: Clone the Repository
 
 ```cmd
-git clone https://github.com/iamumerjz/Secure-AI-Based-Next.js-Login-System-with-Advanced-Face-Identification-using-SoA-OpenCV-Techniques.git
-cd Secure-AI-Based-Next.js-Login-System-with-Advanced-Face-Identification-using-SoA-OpenCV-Techniques
+git clone https://github.com/iamumerjz/An-AI-based-Secure-Login-to-A-System-with-Advanced-Face-Identification
 ```
 
 ### Step 2: Backend Setup (Python Flask + AI/ML)
